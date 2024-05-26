@@ -2,7 +2,7 @@
 - 👀 I’m interested in econometrics and data analysis in general.
 - 🌱 I’m currently learning Python and R languages.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I was one of the finalists in Brazil's 2015 Rubik's Cube nationals.
+- ⚡ Fun fact: I was among the finalists in Brazil's 2015 Rubik's Cube nationals.
 - ✍️ @Fea.dev
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
