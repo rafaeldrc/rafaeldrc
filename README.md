@@ -15,7 +15,7 @@ Hi! I'm @rafaeldrc, an Economics student at the University of São Paulo (USP). 
 
 Right now I'm working on learning **Python** and **R** languages. You can check some of the projects I have taken part in each one of them under [my repositories](https://github.com/rafaeldrc?tab=repositories). 📝
 
-> But where's the fun in learning alone?
+> But what's the fun in learning alone?
 
 <div style="display: inline_block">
   <img align="left" width="70" src="https://github.com/user-attachments/assets/a4bfdc28-ad05-4729-adde-b4dc1f106e30" />
