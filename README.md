@@ -1,4 +1,4 @@
-<h1 align="center">👾 Welcome to my GitHub profile! 👾</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" align="center" alt="Alien Monster" width="50" /> Welcome to my GitHub profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" align="center" alt="Alien Monster" width="50" /></h1>
 
 ## About Me:
 
@@ -9,8 +9,8 @@ Hi! I'm @rafaeldrc, an Economics student at the University of São Paulo (USP). 
 ## My learning:
 
 <div style="display: inline_block">
-  <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="left" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+  <img align="left" width="40" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
+  <img align="left" width="50" src="https://github.com/user-attachments/assets/b454e2dc-9462-40d4-b8bf-b775d92d89dd" />
 </div>
 
 Right now I'm working on learning **Python** and **R** languages. You can check some of the projects I have taken part in each one of them under [my repositories](https://github.com/rafaeldrc?tab=repositories). 📝
@@ -18,7 +18,7 @@ Right now I'm working on learning **Python** and **R** languages. You can check 
 > But where's the fun in learning alone?
 
 <div style="display: inline_block">
-  <img align="left" height="50" width="50" src="https://media.licdn.com/dms/image/D4E0BAQFhIWGEFNk7Hw/company-logo_200_200/0/1698925462188?e=2147483647&v=beta&t=fw-oS6eTPJQmhCYkeKTeOqDEdzLGZp4Eau6v4aNbXsU" />
+  <img align="left" width="70" src="https://github.com/user-attachments/assets/a4bfdc28-ad05-4729-adde-b4dc1f106e30" />
 </div>
 
 Well that's why I joined **[FEA.dev](https://github.com/fea-dev-usp)**, a study group focused on developing **programming skills for business**! There we have a great collaborative environment for USP students looking to enhance their skills by *both* teaching and learning from each other. 📚
@@ -27,6 +27,7 @@ Well that's why I joined **[FEA.dev](https://github.com/fea-dev-usp)**, a study 
 
 ### My current stats:
 <div style="display: flex">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="300" align= "right" />
   <img src="https://github-readme-stats.vercel.app/api?username=rafaeldrc&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false" />
 </div>
 
