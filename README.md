@@ -27,7 +27,6 @@ Well that's why I joined **[FEA.dev](https://github.com/fea-dev-usp)**, a study 
 
 ### My current stats:
 ![](https://github-readme-stats.vercel.app/api?username=rafaeldrc&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafaeldrc&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldrc&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### My main contributions:
