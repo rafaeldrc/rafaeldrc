@@ -21,7 +21,7 @@ Right now I'm working on learning **Python** and **R** languages. You can check 
   <img align="left" width="70" src="https://github.com/user-attachments/assets/a4bfdc28-ad05-4729-adde-b4dc1f106e30" />
 </div>
 
-Well that's why I joined **[FEA.dev](https://github.com/fea-dev-usp)**, a study group focused on developing **programming skills for business**! There we have a great collaborative environment for USP students looking to enhance their skills by *both* teaching and learning from each other. 📚
+Well that's why I joined **[FEA.dev](https://github.com/fea-dev-usp)**, a study group focused on developing **programming skills for business**! There I had a great collaborative environment for USP students looking to enhance their skills by *both* teaching and learning from each other. 📚
 
 ---
 <!---
